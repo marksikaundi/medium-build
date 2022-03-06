@@ -23,7 +23,7 @@ const Home: NextPage = () => {
   
         <img 
         className="hidden md:inline-flex h-32 lg:h-full"
-        src="" alt="banner" />
+        src="https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png" alt="banner" />
       </div>
 
       {/* posts ended on 45 */}
