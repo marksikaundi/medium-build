@@ -4,8 +4,6 @@
     "name": "mediumbuild"
   },
   "api": {
-    "projectId": "z5qvjmp2",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
